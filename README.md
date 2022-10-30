@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ricks-2005
+- 👋 Hi, I’m [Ricks-2005](https://github.com/Ricks-2005)
 - 👀 I’m interested in learning python to its fullest
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on telegram bots projects
