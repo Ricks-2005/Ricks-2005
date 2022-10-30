@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python to its fullest
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on telegram bots projects
-- 📫 How to reach me contact me on [telegram](https://t.me/Elisa_Nishyama)
+- 📫 How to reach me : contact me on [telegram](https://t.me/Elisa_Nishiyama)
 <p allign="center">
   <img src="https://telegra.ph/file/5ce1dfe18139884a1a3db.jpg">
  </p> 
